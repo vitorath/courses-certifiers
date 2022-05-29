@@ -8,3 +8,4 @@
 - [Arquitetura hexagonal](/certifiers/full-cycle-arquitetura-hexagonal.pdf)
 - [Padrões e técnicas avançadas de Git e Github](/certifiers/full-cycle-padroes-e-tecnicas-avancadas-com-git-e-github.pdf)
 - [RabbitMQ](/certifiers/full-cycle-rabbitmq.pdf)
+- [SOLID Express](/certifiers/full-cycle-solid-express.pdf)
